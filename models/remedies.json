@@ -1,0 +1,187 @@
+{
+  "Apple___Apple_scab": {
+    "common_name": "Apple scab",
+    "remedy": "Prune and remove infected leaves and fruit. Apply a fungicide (e.g., products containing myclobutanil or copper) early in the season and at green tip. Avoid overhead irrigation.",
+    "prevention": "Plant resistant varieties, ensure good airflow (prune canopy), and practice sanitation by removing fallen leaves/fruit."
+  },
+  "Apple___Black_rot": {
+    "common_name": "Apple black rot",
+    "remedy": "Remove and destroy infected branches and mummified fruit. Apply appropriate fungicide sprays during the growing season when infections are active.",
+    "prevention": "Sanitation and pruning to improve air circulation; avoid leaving infected debris in orchard."
+  },
+  "Apple___Cedar_apple_rust": {
+    "common_name": "Cedar-apple rust",
+    "remedy": "Prune out heavily infected branches and remove nearby cedar/juniper hosts if possible. Apply protective fungicides during the period when spores are active.",
+    "prevention": "Avoid planting susceptible apple varieties near cedar/juniper hosts; choose resistant cultivars and practice pruning for airflow."
+  },
+  "Apple___healthy": {
+    "common_name": "Healthy apple",
+    "remedy": "No treatment needed. Continue routine cultural practices: irrigation management, balanced fertilization, and monitoring for pests/diseases.",
+    "prevention": "Monitor regularly for early symptoms; maintain good orchard sanitation and proper pruning."
+  },
+  "Blueberry___healthy": {
+    "common_name": "Healthy blueberry",
+    "remedy": "No treatment needed. Maintain soil pH, adequate irrigation and mulching.",
+    "prevention": "Monitor for pests/diseases and follow good cultural practices."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "common_name": "Healthy cherry",
+    "remedy": "No treatment needed. Keep orchard clean and monitor for diseases and pests.",
+    "prevention": "Proper pruning, sanitation, and irrigation management."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "common_name": "Cherry powdery mildew",
+    "remedy": "Remove and destroy infected shoots. Apply fungicides labeled for powdery mildew on stone fruit during active growth.",
+    "prevention": "Improve air circulation, avoid overhead watering, and apply sulphur or other preventative treatments if recommended locally."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "common_name": "Cercospora / Gray leaf spot",
+    "remedy": "Remove and destroy infected crop residues. Use fungicide sprays if disease pressure is high and growth stage is susceptible.",
+    "prevention": "Rotate crops, use resistant hybrids, and use residue management (tillage or removal)."
+  },
+  "Corn_(maize)___Common_rust": {
+    "common_name": "Common rust of corn",
+    "remedy": "If infections are severe, apply recommended fungicides at appropriate growth stages.",
+    "prevention": "Plant resistant hybrids, and rotate crops. Monitor weather and treat when conditions favor rust."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "common_name": "Northern corn leaf blight",
+    "remedy": "Remove or disk infected debris. Fungicide applications may be needed under heavy disease pressure.",
+    "prevention": "Use resistant hybrids and crop rotation; avoid continuous corn planting."
+  },
+  "Corn_(maize)___healthy": {
+    "common_name": "Healthy corn",
+    "remedy": "No treatment; follow best agronomy practices.",
+    "prevention": "Regular scouting and maintain crop rotation and variety selection."
+  },
+  "Grape___Black_rot": {
+    "common_name": "Grape black rot",
+    "remedy": "Remove infected clusters and mummified fruit, prune affected shoots. Apply fungicides during bloom and pre-bunch closure if needed.",
+    "prevention": "Sanitation and pruning to improve airflow, use resistant varieties when available."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "common_name": "Esca (black measles)",
+    "remedy": "Remove and destroy severely infected wood; there are limited chemical controls and management focuses on removal of affected vines.",
+    "prevention": "Avoid wounding vines, maintain vine vigor, and remove infected material promptly."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "common_name": "Isariopsis leaf spot / leaf blight",
+    "remedy": "Apply fungicides if disease pressure is significant and remove infected leaves to reduce inoculum.",
+    "prevention": "Improve canopy ventilation and apply regular sprays during wet periods if recommended locally."
+  },
+  "Grape___healthy": {
+    "common_name": "Healthy grape",
+    "remedy": "No treatment; continue standard vineyard care.",
+    "prevention": "Regular monitoring, pruning, and sanitation."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "common_name": "Huanglongbing (Citrus Greening)",
+    "remedy": "There is no cure. Remove and destroy infected trees to prevent spread. Control the vector (Asian citrus psyllid) with insecticides where appropriate.",
+    "prevention": "Use certified disease-free planting material, monitor and control psyllid populations, and follow local integrated pest management (IPM) guidelines."
+  },
+  "Peach___Bacterial_spot": {
+    "common_name": "Peach bacterial spot",
+    "remedy": "Prune out heavily infected areas and apply copper-based sprays as permitted for stone fruit during active infection periods.",
+    "prevention": "Use clean nursery stock, improve air flow by pruning, and avoid overhead irrigation during wet conditions."
+  },
+  "Peach___healthy": {
+    "common_name": "Healthy peach",
+    "remedy": "No treatment needed. Keep trees pruned and monitor.",
+    "prevention": "Sanitation, pruning and timely monitoring."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "common_name": "Bell pepper bacterial spot",
+    "remedy": "Remove infected plants/fruit and use copper sprays where allowed. Avoid handling plants when wet to reduce spread.",
+    "prevention": "Use certified seed/seedlings and practice crop rotation and sanitation."
+  },
+  "Pepper,_bell___healthy": {
+    "common_name": "Healthy bell pepper",
+    "remedy": "No treatment; maintain proper watering and nutrition.",
+    "prevention": "Monitor for pests and diseases regularly."
+  },
+  "Potato___Early_blight": {
+    "common_name": "Potato early blight",
+    "remedy": "Remove and destroy infected foliage; apply appropriate fungicides (e.g., chlorothalonil or mancozeb) according to label instructions.",
+    "prevention": "Rotate crops, avoid overhead watering, and use certified seed potatoes."
+  },
+  "Potato___Late_blight": {
+    "common_name": "Potato late blight",
+    "remedy": "Remove infected plants immediately. Apply effective fungicides quickly when conditions are favorable for late blight and follow local advisories.",
+    "prevention": "Use resistant varieties if available, rotate crops, and maintain good drainage."
+  },
+  "Potato___healthy": {
+    "common_name": "Healthy potato",
+    "remedy": "No treatment; maintain good cultural practices.",
+    "prevention": "Use certified seed and monitor for signs of disease, especially in wet conditions."
+  },
+  "Raspberry___healthy": {
+    "common_name": "Healthy raspberry",
+    "remedy": "No treatment. Provide proper pruning and sanitation.",
+    "prevention": "Monitor for common pests and rotate plantings if possible."
+  },
+  "Soybean___healthy": {
+    "common_name": "Healthy soybean",
+    "remedy": "No treatment; follow recommended soybean agronomy.",
+    "prevention": "Use certified seed, rotate crops and scout regularly."
+  },
+  "Squash___Powdery_mildew": {
+    "common_name": "Squash powdery mildew",
+    "remedy": "Remove and destroy infected leaves and apply fungicides labeled for powdery mildew on cucurbits.",
+    "prevention": "Plant resistant varieties, ensure good airflow, and avoid high humidity around the plants."
+  },
+  "Strawberry___Leaf_scorch": {
+    "common_name": "Strawberry leaf scorch",
+    "remedy": "Remove and discard infected leaves. Improve air circulation and apply fungicides as recommended for strawberry leaf scorch.",
+    "prevention": "Maintain good spacing of plants, proper irrigation management, and use disease-free runners."
+  },
+  "Strawberry___healthy": {
+    "common_name": "Healthy strawberry",
+    "remedy": "No treatment; keep plants mulched and well watered.",
+    "prevention": "Monitor for pests and disease; use certified runner plants."
+  },
+  "Tomato___Bacterial_spot": {
+    "common_name": "Tomato bacterial spot",
+    "remedy": "Remove infected plant debris and apply copper-based bactericides if allowed. Avoid handling plants when wet.",
+    "prevention": "Use certified seed, rotate crops and practice good sanitation."
+  },
+  "Tomato___Early_blight": {
+    "common_name": "Tomato early blight",
+    "remedy": "Remove affected foliage, apply recommended fungicides, and rotate crops.",
+    "prevention": "Plant resistant varieties and avoid overhead irrigation."
+  },
+  "Tomato___Late_blight": {
+    "common_name": "Tomato late blight",
+    "remedy": "Remove infected plants immediately; use appropriate fungicides and avoid moving between wet plants to reduce spread.",
+    "prevention": "Use certified seed and consult local extension for late blight alerts and resistant varieties."
+  },
+  "Tomato___Leaf_Mold": {
+    "common_name": "Tomato leaf mold",
+    "remedy": "Improve ventilation in greenhouses, remove infected leaves, and apply fungicides when necessary.",
+    "prevention": "Avoid high humidity and ensure proper spacing and airflow."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "common_name": "Septoria leaf spot",
+    "remedy": "Remove lower infected leaves, practice crop rotation, and apply fungicides during wet conditions.",
+    "prevention": "Avoid overhead watering and maintain good sanitation."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "common_name": "Two-spotted spider mite",
+    "remedy": "Use appropriate miticides or biological controls (predatory mites). Spray with water to dislodge mites in small plantings.",
+    "prevention": "Avoid plant stress (proper watering), and monitor early for mite infestations."
+  },
+  "Tomato___Target_Spot": {
+    "common_name": "Tomato target spot",
+    "remedy": "Remove infected tissues and apply fungicide treatments if disease is widespread.",
+    "prevention": "Rotate crops and avoid prolonged leaf wetness."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "common_name": "Tomato mosaic virus",
+    "remedy": "No chemical cure. Remove infected plants and control spread through sanitation. Disinfect tools and hands after handling infected plants.",
+    "prevention": "Use virus-free seed/seedlings and practice sanitation; control tobacco and other reservoir hosts."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "common_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "remedy": "No cure; remove infected plants. Control the whitefly vector using insecticides or integrated pest management.",
+    "prevention": "Use resistant varieties, reflective mulches, and control whitefly populations early."
+  }
+}

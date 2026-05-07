@@ -1,0 +1,9 @@
+tensorflow-macos
+tensorflow-metal
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+# inside your activated venv
+pip install streamlit
