@@ -1,9 +1,8 @@
-tensorflow-macos
-tensorflow-metal
+streamlit
+tensorflow
 numpy
 matplotlib
 seaborn
 scikit-learn
 pillow
-# inside your activated venv
-pip install streamlit
+opencv-python-headless
